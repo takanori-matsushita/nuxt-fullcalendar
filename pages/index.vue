@@ -10,7 +10,7 @@
 export default {}
 </script>
 
-<style lang="postcss">
+<style>
 /* Sample `apply` at-rules with Tailwind CSS */
 .container {
   @apply mt-10 mx-auto;

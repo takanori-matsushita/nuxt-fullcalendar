@@ -13,6 +13,6 @@ export default {}
 <style>
 /* Sample `apply` at-rules with Tailwind CSS */
 .container {
-  @apply mt-10 mx-auto;
+  @apply mt-10 mb-10 mx-auto;
 }
 </style>
